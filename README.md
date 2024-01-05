@@ -1,5 +1,3 @@
-# TODO
-
 ## INSTALASI
 
 -   Laravel 10 (https://laravel.com)
@@ -9,8 +7,22 @@
 -   TailwindCSS (https://tailwindcss.com/)
 -   TailwindUI (https://tailwindui.com/)
 -   Flowbite (https://flowbite.com/)
+-   AlpineJS (https://alpinejs.dev/)
 -   Laravel Breeze (https://laravel.com/docs/10.x/starter-kits#laravel-breeze)
 -   Visual Studio Code (https://code.visualstudio.com/)
+
+## TODO
+
+### Part 1 - membuat halaman home
+
+-   Ambil landing page dari TailwindUI (https://tailwindui.com/components/marketing/sections/heroes)
+-   Ambil footer dari blog templates di flowbite (https://flowbite.com/blocks/publisher/blog-templates)
+-   Tambahkan interaksi mobile sidebar menggunakan alpine
+-   Tambahkan animasi show hide sidebar (https://tailwindui.com/documentation#using-html-and-your-own-js)
+-   Tambahkan font inter & edit config tailwind (https://tailwindui.com/documentation#using-html-and-your-own-js)
+-   Edit konten web
+
+### Part 2 - membuat halaman blog
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
